@@ -36,7 +36,6 @@ Run at the terminal: java -cp ./playfair.jar ie.gmit.sw.ai.CipherBreaker
 - Terminal or cmd: **java -cp ./playfair.jar ie.gmit.sw.ai.CipherBreaker**
 
 ## About Project
-[Project Document]()
 
 This Project is **Using Simulated Annealing to Break a Playfair Cipher**. There are 4 class files in the project: **Hash4Gram.java**,  **PlayFairs.java**,  **ShuffleKey.java**,  **CipherBreaker.java**.
 
@@ -96,7 +95,7 @@ Encrypting the message "Hide the gold in the tree stump" (note the null "X" used
 ![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3791523113874_.pic.jpg)
 
 
-## What is [Simulated Annealing Algorithm](https://en.wikipedia.org/wiki/Simulated_annealing)
+## What is [Simulated Annealing Algorithm](https://en.wikipedia.org/wiki/Simulated_annealing):
 Simulated annealing (SA) is an excellent approach for breaking a cipher using a randomly generated key. Unlike conventional Hill Climbing algorithms, that are easily side-tracked by local optima, SA uses randomization to avoid heuristic plateaux and attempt to find a global maxima solution. The following pseudocode shows how simulated annealing can be used break a Playfair Cipher. Note that the initial value of the variables temp and transitions can have a major impact on the success of the SA algorithm. Both variables control the cooling schedule of SA and should be experimented with for best results
 
 ![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3801523114485_.pic.jpg)
