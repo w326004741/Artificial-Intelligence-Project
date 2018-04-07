@@ -1,7 +1,7 @@
 # Using-Simulated-Annealing-to-Break-a-Playfair-Cipher
 > Module: Artificial Intelligence / 4th Year      
 > Lecture: Dr John Healy      
-> Project 2018: Using Simulated Annealing to Break a Playfair Cipher 
+> [Project 2018: Using Simulated Annealing to Break a Playfair Cipher](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/Project-aiAssignment2018.pdf) 
 
 > by - [Weichen Wang](https://w326004741.github.io/)
 
@@ -10,7 +10,7 @@ You are required to use the simulated annealing algorithm to break a Playfair Ci
 - A menu-driven command line UI that enables a cipher-text source to be specified (a file or URL) and an output destination file for decrypted plain-text.
 - Decrypt cipher-text with a simulated annealing algorithm that uses a log-probability and n-gram statistics as a heuristic evaluation function. 
 
-[Project Details](https://github.com/w326004741/Artificial-Intelligence-Project)
+[Project Details](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/Project-aiAssignment2018.pdf)
 
 
 ## How to use this repository:
@@ -35,7 +35,7 @@ Run at the terminal: java -cp ./playfair.jar ie.gmit.sw.ai.CipherBreaker
 
 - Terminal or cmd: **java -cp ./playfair.jar ie.gmit.sw.ai.CipherBreaker**
 
-## About Playfair Cipher
+## About [Playfair Cipher](https://en.wikipedia.org/wiki/Playfair_cipher):
 The Playfair system was invented by Charles Wheatstone, who first described it in 1854.
 The Playfair cipher or Playfair square or Wheatstone-Playfair cipher is a manual symmetric encryption technique and was the first literal digram substitution cipher. The scheme was invented in 1854 by Charles Wheatstone, but bears the name of Lord Playfair for promoting its use.
 
@@ -58,9 +58,9 @@ Encrypting the message "Hide the gold in the tree stump" (note the null "X" used
 
 ![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3721523113033_.pic.jpg)
 
-![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3731523113177_.pic.jpg)
-![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3751523113212_.pic.jpg)
-![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3761523113235_.pic.jpg)
+
+![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3781523113860_.pic.jpg)
+![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3791523113874_.pic.jpg)
 ## About Project
 [Project Document]()
 
@@ -91,3 +91,8 @@ Traverse the cryptogram 4-gram, if it exists, take count and calculate the logar
 **TheHobbit-Cypher-Text**
 
 ![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3701523109939_.pic_hd.jpg)
+
+## References:
+- [PlayFair Cipher - Wiki](https://en.wikipedia.org/wiki/Playfair_cipher)
+
+- [Simulated annealing - Wiki](https://en.wikipedia.org/wiki/Simulated_annealing)
