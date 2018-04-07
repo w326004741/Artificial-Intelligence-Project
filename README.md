@@ -49,7 +49,18 @@ To encrypt a message, one would break the message into digrams (groups of 2 lett
 3. If the letters appear on the same column of your table, replace them with the letters immediately below respectively (wrapping around to the top side of the column if a letter in the original pair was on the bottom side of the column).
 4. If the letters are not on the same row or column, replace them with the letters on the same row respectively but at the other pair of corners of the rectangle defined by the original pair. The order is important – the first letter of the encrypted pair is the one that lies on the same row as the first letter of the plaintext pair.
 
+### Example
+Using "playfair example" as the key (assuming that I and J are interchangeable), the table becomes:
 
+![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3711523112948_.pic.jpg)
+
+Encrypting the message "Hide the gold in the tree stump" (note the null "X" used to separate the repeated "E"s) :
+
+![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3721523113033_.pic.jpg)
+
+![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3731523113177_.pic.jpg)
+![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3751523113212_.pic.jpg)
+![image](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/image/3761523113235_.pic.jpg)
 ## About Project
 [Project Document]()
 
