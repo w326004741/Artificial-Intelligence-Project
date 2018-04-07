@@ -45,7 +45,7 @@ Run at the terminal: java -cp ./playfair.jar ie.gmit.sw.ai.CipherBreaker
 
 ## About Project
 
-This Project is **Using Simulated Annealing to Break a Playfair Cipher**. There are 4 class files in the project: **Hash4Gram.java**,  **PlayFairs.java**,  **ShuffleKey.java**,  **CipherBreaker.java**.
+This Project is **Using Simulated Annealing to Break a Playfair Cipher**🔑🔐🔓. There are 4 class files in the project: **Hash4Gram.java**,  **PlayFairs.java**,  **ShuffleKey.java**,  **CipherBreaker.java**.
 
 - **Hash4Gram.java**: This file is used to store the contents of the 4-grams file. Key is gram, value is count. Create a static variable named total, used to calculate the total count of the entire file.
 
