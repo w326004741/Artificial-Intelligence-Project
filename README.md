@@ -5,6 +5,14 @@
 
 > by - [Weichen Wang](https://w326004741.github.io/)
 
+## Table of Contents:
+1. [Overview](#overview)
+2. [How to use this repository](#how-to-use-this-repository)
+3. [How to Run](#how-to-run)
+4. [About Project](#about-project)
+5. [What is Playfair Cipher](#what-is-playfair-cipher)
+6. [What is Simulated Annealing Algorithm](#what-is-simulated-annealing-algorithm)
+7. [References](#references)
 ## Overview
 You are required to use the simulated annealing algorithm to break a Playfair Cipher. Your application should have the following minimal set of features:
 - A menu-driven command line UI that enables a cipher-text source to be specified (a file or URL) and an output destination file for decrypted plain-text.
