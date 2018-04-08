@@ -1,6 +1,6 @@
 # Using-Simulated-Annealing-to-Break-a-Playfair-Cipher
 > Module: Artificial Intelligence / 4th Year      
-> Lecturer: Dr John Healy      
+> Lecturer: Dr John Healy         
 > [Project 2018: Using Simulated Annealing to Break a Playfair Cipher](https://github.com/w326004741/Artificial-Intelligence-Project/blob/master/Project-aiAssignment2018.pdf) 
 
 > by - [Weichen Wang](https://w326004741.github.io/)
